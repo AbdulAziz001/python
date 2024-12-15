@@ -16,3 +16,14 @@ print(myset)
 my_list = [1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4]
 new_set = set(my_list)
 print(new_set)
+
+# Boolean
+print(1 > 2)
+
+# None
+# used to define a variable when the value to be assigned later
+b = None
+print(b)
+
+b = 10
+print(b)
