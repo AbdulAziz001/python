@@ -84,3 +84,94 @@ print("************** unpacking using  value pair but display only values ******
 for value in d.values():
     print(value)
 
+"""
+outputs 
+
+*************Iterating using for ***********************
+1
+2
+3
+********** odd and even number display *******************
+1 is odd 
+2 is even 
+3 is odd 
+4 is even 
+5 is odd 
+6 is even 
+7 is odd 
+8 is even 
+9 is odd 
+10 is even 
+********* sum of even and odd numbers  *************************
+even number sum is 30
+odd number sum is 25
+***************  for with string ******************************
+h
+e
+l
+l
+o
+ 
+w
+o
+r
+l
+d
+************* don't want to use variable name **************************
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+************* for loop with tuples **************************
+1
+2
+3
+*************** tuples unpacking in list ***********************
+1
+2
+3
+4
+5
+6
+****** another way of displaying *************************
+1
+3
+5
+*************** tuples with 3 elements in list and its unpacking ************************
+1
+2
+3
+4
+5
+6
+7
+8
+9
+************** dictionary and for loops  *************************
+k1
+k2
+k3
+************** display key values in tuples  *************************
+('k1', 1)
+('k2', 2)
+('k3', 3)
+************** unpacking using key value pair  *************************
+k1
+1
+k2
+2
+k3
+3
+************** unpacking using  value pair but display only values *************************
+1
+2
+3
+
+"""
