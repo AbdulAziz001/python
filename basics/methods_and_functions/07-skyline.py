@@ -8,9 +8,9 @@ can start with either an uppercase or lowercase letter, so long as letters alter
 
 def myfunc(mystring):
     pos = 0
-    return_string =""
+    return_string = ""
     for char in mystring:
-        if pos %2 ==0:
+        if pos % 2 == 0:
             return_string = return_string + char.upper()
         else:
             return_string = return_string + char.lower()
